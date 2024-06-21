@@ -2,7 +2,7 @@
 <h3 align="center">Java enthusiast And Crafting dynamic web solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 
-- 🚀 I’m currently working on **WebDevelopment Projects**
+- 🚀 I’m currently working on **Full Stack Projects**
 
 - 👩🏻‍💻 I’m currently learning **React,Node,AI Tools**
 
